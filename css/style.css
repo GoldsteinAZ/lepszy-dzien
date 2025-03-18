@@ -18,15 +18,15 @@
 }
 
 .profile-img {
-  max-width: 100%; /* Zapewnia, że obraz nie przekroczy szerokości kontenera */
-  height: auto; /* Utrzymuje proporcje obrazu */
-  display: block; /* Zapobiega dodatkowej przestrzeni pod obrazem */
-  margin: 0 auto; /* Centruje obraz w kontenerze */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 @media (min-width: 768px) {
   .profile-img {
-    max-width: 500px; /* Ogranicza szerokość na większych ekranach */
+    max-width: 500px;
   }
 }
 
