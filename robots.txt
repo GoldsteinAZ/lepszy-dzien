@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://goldsteinaz.github.io/lepszy-dzien/sitemap.xml
